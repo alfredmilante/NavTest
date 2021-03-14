@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NavFlightMaintenance/1.0.0": {
+        "dependencies": {
+          "NavLibrary": "1.0.0"
+        },
+        "runtime": {
+          "NavFlightMaintenance.dll": {}
+        }
+      },
+      "NavLibrary/1.0.0": {
+        "runtime": {
+          "NavLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NavFlightMaintenance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NavLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\jmilante\Downloads\Navitaire-main\NavFlightReservation\bin\Debug\netcoreapp3.1\Data\flights.csv
+C:\Users\jmilante\Downloads\Navitaire-main\NavFlightReservation\bin\Debug\netcoreapp3.1\NavFlightReservation.exe
+C:\Users\jmilante\Downloads\Navitaire-main\NavFlightReservation\bin\Debug\netcoreapp3.1\NavFlightReservation.deps.json
+C:\Users\jmilante\Downloads\Navitaire-main\NavFlightReservation\bin\Debug\netcoreapp3.1\NavFlightReservation.runtimeconfig.json
+C:\Users\jmilante\Downloads\Navitaire-main\NavFlightReservation\bin\Debug\netcoreapp3.1\NavFlightReservation.runtimeconfig.dev.json
+C:\Users\jmilante\Downloads\Navitaire-main\NavFlightReservation\bin\Debug\netcoreapp3.1\NavFlightReservation.dll
+C:\Users\jmilante\Downloads\Navitaire-main\NavFlightReservation\bin\Debug\netcoreapp3.1\NavFlightReservation.pdb
+C:\Users\jmilante\Downloads\Navitaire-main\NavFlightReservation\bin\Debug\netcoreapp3.1\NavLibrary.dll
+C:\Users\jmilante\Downloads\Navitaire-main\NavFlightReservation\bin\Debug\netcoreapp3.1\NavLibrary.pdb
+C:\Users\jmilante\Downloads\Navitaire-main\NavFlightReservation\obj\Debug\netcoreapp3.1\NavFlightReservation.csprojAssemblyReference.cache
+C:\Users\jmilante\Downloads\Navitaire-main\NavFlightReservation\obj\Debug\netcoreapp3.1\NavFlightReservation.AssemblyInfoInputs.cache
+C:\Users\jmilante\Downloads\Navitaire-main\NavFlightReservation\obj\Debug\netcoreapp3.1\NavFlightReservation.AssemblyInfo.cs
+C:\Users\jmilante\Downloads\Navitaire-main\NavFlightReservation\obj\Debug\netcoreapp3.1\NavFlightReservation.csproj.CoreCompileInputs.cache
+C:\Users\jmilante\Downloads\Navitaire-main\NavFlightReservation\obj\Debug\netcoreapp3.1\NavFlightReservation.csproj.CopyComplete
+C:\Users\jmilante\Downloads\Navitaire-main\NavFlightReservation\obj\Debug\netcoreapp3.1\NavFlightReservation.dll
+C:\Users\jmilante\Downloads\Navitaire-main\NavFlightReservation\obj\Debug\netcoreapp3.1\NavFlightReservation.pdb
+C:\Users\jmilante\Downloads\Navitaire-main\NavFlightReservation\obj\Debug\netcoreapp3.1\NavFlightReservation.genruntimeconfig.cache

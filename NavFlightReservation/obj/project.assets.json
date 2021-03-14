@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NavLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/NavLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NavLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NavLibrary/1.0.0": {
+      "type": "project",
+      "path": "../NavLibrary/NavLibrary.csproj",
+      "msbuildProject": "../NavLibrary/NavLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "NavLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\jmilante\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\jmilante\\Downloads\\Navitaire-main\\NavFlightReservation\\NavFlightReservation.csproj",
+      "projectName": "NavFlightReservation",
+      "projectPath": "C:\\Users\\jmilante\\Downloads\\Navitaire-main\\NavFlightReservation\\NavFlightReservation.csproj",
+      "packagesPath": "C:\\Users\\jmilante\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jmilante\\Downloads\\Navitaire-main\\NavFlightReservation\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\jmilante\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\jmilante\\Downloads\\Navitaire-main\\NavLibrary\\NavLibrary.csproj": {
+              "projectPath": "C:\\Users\\jmilante\\Downloads\\Navitaire-main\\NavLibrary\\NavLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

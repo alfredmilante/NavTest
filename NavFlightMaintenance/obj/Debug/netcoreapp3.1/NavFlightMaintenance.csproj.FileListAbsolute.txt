@@ -1,0 +1,17 @@
+C:\Users\jmilante\Downloads\Navitaire-main\NavFlightMaintenance\bin\Debug\netcoreapp3.1\Data\flights.csv
+C:\Users\jmilante\Downloads\Navitaire-main\NavFlightMaintenance\bin\Debug\netcoreapp3.1\NavFlightMaintenance.exe
+C:\Users\jmilante\Downloads\Navitaire-main\NavFlightMaintenance\bin\Debug\netcoreapp3.1\NavFlightMaintenance.deps.json
+C:\Users\jmilante\Downloads\Navitaire-main\NavFlightMaintenance\bin\Debug\netcoreapp3.1\NavFlightMaintenance.runtimeconfig.json
+C:\Users\jmilante\Downloads\Navitaire-main\NavFlightMaintenance\bin\Debug\netcoreapp3.1\NavFlightMaintenance.runtimeconfig.dev.json
+C:\Users\jmilante\Downloads\Navitaire-main\NavFlightMaintenance\bin\Debug\netcoreapp3.1\NavFlightMaintenance.dll
+C:\Users\jmilante\Downloads\Navitaire-main\NavFlightMaintenance\bin\Debug\netcoreapp3.1\NavFlightMaintenance.pdb
+C:\Users\jmilante\Downloads\Navitaire-main\NavFlightMaintenance\bin\Debug\netcoreapp3.1\NavLibrary.dll
+C:\Users\jmilante\Downloads\Navitaire-main\NavFlightMaintenance\bin\Debug\netcoreapp3.1\NavLibrary.pdb
+C:\Users\jmilante\Downloads\Navitaire-main\NavFlightMaintenance\obj\Debug\netcoreapp3.1\NavFlightMaintenance.csprojAssemblyReference.cache
+C:\Users\jmilante\Downloads\Navitaire-main\NavFlightMaintenance\obj\Debug\netcoreapp3.1\NavFlightMaintenance.AssemblyInfoInputs.cache
+C:\Users\jmilante\Downloads\Navitaire-main\NavFlightMaintenance\obj\Debug\netcoreapp3.1\NavFlightMaintenance.AssemblyInfo.cs
+C:\Users\jmilante\Downloads\Navitaire-main\NavFlightMaintenance\obj\Debug\netcoreapp3.1\NavFlightMaintenance.csproj.CoreCompileInputs.cache
+C:\Users\jmilante\Downloads\Navitaire-main\NavFlightMaintenance\obj\Debug\netcoreapp3.1\NavFlightMaintenance.csproj.CopyComplete
+C:\Users\jmilante\Downloads\Navitaire-main\NavFlightMaintenance\obj\Debug\netcoreapp3.1\NavFlightMaintenance.dll
+C:\Users\jmilante\Downloads\Navitaire-main\NavFlightMaintenance\obj\Debug\netcoreapp3.1\NavFlightMaintenance.pdb
+C:\Users\jmilante\Downloads\Navitaire-main\NavFlightMaintenance\obj\Debug\netcoreapp3.1\NavFlightMaintenance.genruntimeconfig.cache
